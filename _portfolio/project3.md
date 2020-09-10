@@ -1,5 +1,5 @@
 ---
-title: Project Name
+title: Group Fitness
 subtitle: Lorem ipsum dolor sit amet consectetur.
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
 alt: 
@@ -9,10 +9,17 @@ caption:
   subtitle: Identity
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
 ---
-Use this area to describe your project. Lorem ipsum dolor sit amet, consectetur adipisicing elit. Est blanditiis dolorem culpa incidunt minus dignissimos deserunt repellat aperiam quasi sunt officia expedita beatae cupiditate, maiores repudiandae, nostrum, reiciendis facere nemo!
 
-{:.list-inline}
-- Date: January 2017
-- Client: Finish
-- Category: Identity
+**Rates:**
+Duration: 1 hour \\
+Adults: $15 \\
+Students: $10 \\
+Days: Saturdays & Sundays @ 7am \\
+Location??? (Must be in what area?)
+
+
+Group fitness classes are weekly on Saturdays and Sundays at 7am. This session includes training and working out with a group of individuals on Saturday and Sunday mornings at a designated track/field. The ultimate goal of this session is tone up the body, build total body strength and build muscle fitness in a team atmosphere.
+
+Email EdobiFitness@gmail.com to Join!
+Location will be emailed to you upon reservation.
 

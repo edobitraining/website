@@ -1,32 +1,33 @@
 header:
-    title: Welcome to Edobi Fitness!
-    text: It's Nice To Meet You
+    title: Jenn Edobi
+    text: 
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
 services:
     title: "Services"
-    text: "Lorem ipsum"
+    text: 
     section: services
     list:
-      - title: "E-Commerce"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
-      - title: "Responsive Design"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
-        icon: fas fa-laptop       
-      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
-        desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+      - title: "Track Specific Training"
+        desc: "1:1 Track Specific Training. running form, mechanics and dynamic drills to ultimately improve speed and strength while running. Sessions will also include a speed or endurance workout depending on the needs of the athlete. Discounted package bundles are available when multiple sessions are booked."
+        icon: fas fa-running
+      - title: "Personal Training"
+        desc: "This 1:1 session will focus on building total body strength, fitness and endurance through various vigorous exercises including running, plyometrics and weight lifting. Training sessions will focus on either muscle gain, weight loss or both depending on the goals of the client."
+        icon: fas fa-dumbbell       
+      - title: "Group Fitness"
+        desc: "Group fitness classes are weekly on Saturdays and Sundays at 7am. This session includes training and working out with a group of individuals on Saturday and Sunday mornings at a designated track/field. The ultimate goal of this session is tone up the body, build total body strength and build muscle fitness in a team atmosphere."
+        icon: fas fa-users
 
-Services:
+portfolio:
     title: "Services2"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    section: services2
+    text: "Services offered?"
+    section: portfolio
+    closebutton: "Close"
     
 
 timeline:
-    title: "About" 
+    title: "My Story" 
     text: "Lorem ipsum timeline"
     section: timeline
     events:
@@ -54,7 +55,7 @@ timeline:
         image: assets/img/timeline/4.jpg
         alt: 
         align: right
-    end: "Be Part <br> of Our <br> Story!"
+    end: "Be Part <br> of My <br> Story!"
 
 about:
     title: "About Us"
@@ -79,42 +80,42 @@ clients:
         url: https://github.com/raviriley/agency-jekyll-theme
         logo: assets/img/clients/creative-market.jpg
     
-team:
-    title: "OUR AMAZING TEAM"
-    text: "Lorem ipsum dolor sit amet consectetur."
-    subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
-    section: team
-    people:
-      - name: "Kay Garland"
-        role: "Lead Designer"
-        image: assets/img/team/1.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Larry Parker"
-        role: "Lead Marketer"
-        image: assets/img/team/2.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
-      - name: "Diana Perterson"
-        role: "Lead Developer"
-        image: assets/img/team/3.jpg
-        social:
-          - url: https://twitter.com
-            icon: fab fa-twitter
-          - url: https://facebook.com
-            icon: fab fa-facebook-f
-          - url: https://linkedin.com
-            icon: fab fa-linkedin-in
+# team:
+#     title: "OUR AMAZING TEAM"
+#     text: "Lorem ipsum dolor sit amet consectetur."
+#     subtext: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde. **Markdown** supported.
+#     section: team
+#     people:
+#       - name: "Kay Garland"
+#         role: "Lead Designer"
+#         image: assets/img/team/1.jpg
+#         social:
+#           - url: https://twitter.com
+#             icon: fab fa-twitter
+#           - url: https://facebook.com
+#             icon: fab fa-facebook-f
+#           - url: https://linkedin.com
+#             icon: fab fa-linkedin-in
+#       - name: "Larry Parker"
+#         role: "Lead Marketer"
+#         image: assets/img/team/2.jpg
+#         social:
+#           - url: https://twitter.com
+#             icon: fab fa-twitter
+#           - url: https://facebook.com
+#             icon: fab fa-facebook-f
+#           - url: https://linkedin.com
+#             icon: fab fa-linkedin-in
+#       - name: "Diana Perterson"
+#         role: "Lead Developer"
+#         image: assets/img/team/3.jpg
+#         social:
+#           - url: https://twitter.com
+#             icon: fab fa-twitter
+#           - url: https://facebook.com
+#             icon: fab fa-facebook-f
+#           - url: https://linkedin.com
+#             icon: fab fa-linkedin-in
           
 contact:
     title: "Contact Us"
