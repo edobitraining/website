@@ -1,12 +1,12 @@
 ---
 title: Group Fitness
-subtitle: Lorem ipsum dolor sit amet consectetur.
+subtitle: Group Fitness Classes
 image: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-full.jpg
 alt: 
 
 caption:
-  title: Finish
-  subtitle: Identity
+  title: Group Fitness
+  subtitle: Group Fitness Classes
   thumbnail: https://raw.githubusercontent.com/BlackrockDigital/startbootstrap-agency/master/src/assets/img/portfolio/03-thumbnail.jpg
 ---
 
