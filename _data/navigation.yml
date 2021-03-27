@@ -3,9 +3,6 @@ nav:
     section: timeline
 
   - title: "Services"
-    section: services
-
-  - title: "Services Option 2"
     section: portfolio
 
   - title: "Contact"

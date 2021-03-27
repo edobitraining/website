@@ -4,20 +4,20 @@ header:
     button: Tell Me More
     buttonlink: "#services" # "#{section}" or "URL/page link"
 
-services:
-    title: "Services"
-    text: 
-    section: services
-    list:
-      - title: "DELETE THIS"
-        desc: "1:1 Track Specific Training. running form, mechanics and dynamic drills to ultimately improve speed and strength while running. Sessions will also include a speed or endurance workout depending on the needs of the athlete. Discounted package bundles are available when multiple sessions are booked."
-        icon: fas fa-running
-      - title: "Personal Training"
-        desc: "This 1:1 session will focus on building total body strength, fitness and endurance through various vigorous exercises including running, plyometrics and weight lifting. Training sessions will focus on either muscle gain, weight loss or both depending on the goals of the client."
-        icon: fas fa-dumbbell       
-      - title: "Group Fitness"
-        desc: "Group fitness classes are weekly on Saturdays and Sundays at 7am. This session includes training and working out with a group of individuals on Saturday and Sunday mornings at a designated track/field. The ultimate goal of this session is tone up the body, build total body strength and build muscle fitness in a team atmosphere."
-        icon: fas fa-users
+# services:
+#     title: "Services"
+#     text: 
+#     section: services
+#     list:
+#       - title: "DELETE THIS"
+#         desc: "1:1 Track Specific Training. running form, mechanics and dynamic drills to ultimately improve speed and strength while running. Sessions will also include a speed or endurance workout depending on the needs of the athlete. Discounted package bundles are available when multiple sessions are booked."
+#         icon: fas fa-running
+#       - title: "Personal Training"
+#         desc: "This 1:1 session will focus on building total body strength, fitness and endurance through various vigorous exercises including running, plyometrics and weight lifting. Training sessions will focus on either muscle gain, weight loss or both depending on the goals of the client."
+#         icon: fas fa-dumbbell       
+#       - title: "Group Fitness"
+#         desc: "Group fitness classes are weekly on Saturdays and Sundays at 7am. This session includes training and working out with a group of individuals on Saturday and Sunday mornings at a designated track/field. The ultimate goal of this session is tone up the body, build total body strength and build muscle fitness in a team atmosphere."
+#         icon: fas fa-users
 
 portfolio:
     title: "Services2"
