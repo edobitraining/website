@@ -28,13 +28,13 @@ portfolio:
 
 timeline:
     title: "My Story" 
-    text: "Lorem ipsum timeline"
+    text: "This is me?"
     section: timeline
     events:
-      - title: "Our Humble Beginnings"
-        year: "2009-2011"
-        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!"
-        image: assets/img/timeline/1.jpg
+      - title: "High School"
+        year: "2014"
+        desc: "JENN WRITE DESCRIPTION"
+        image: assets/img/timeline/2014_hs_1.PNG
         alt: 
         align: left
       - title: "An Agency is Born"
