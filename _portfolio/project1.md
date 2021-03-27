@@ -19,3 +19,5 @@ Email Edobifitness@gmail.com to book specific dates and times of interest. Booki
 
 **Cancellation Policy:**
  For cancellations, please give 24 hours notice.
+
+[**Book Here** (Via Google Form)](https://docs.google.com/forms/d/e/1FAIpQLSfXLfm8efI-WyB7o68Ep7gahE-0KgwBvQAmBL5zsUnO8V8m9g/viewform?usp=sf_link)
