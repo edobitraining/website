@@ -33,7 +33,7 @@ timeline:
     events:
       - title: "High School"
         year: "2014"
-        desc: "JENN WRITE DESCRIPTION"
+        desc: "Last High Track Meet"
         image: assets/img/timeline/2014_hs_1.PNG
         alt: 
         align: left
