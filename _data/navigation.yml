@@ -1,15 +1,12 @@
 nav:
   - title: "About Me"
-    section: about_me
+    section: timeline
 
   - title: "Services"
     section: services
 
   - title: "Services Option 2"
     section: portfolio
-    
-  - title: "About"
-    section: timeline
 
   - title: "Contact"
     section: contact
