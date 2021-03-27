@@ -1,6 +1,7 @@
 nav:
   - title: "About Me"
     section: about_me
+
   - title: "Services"
     section: services
 
@@ -15,3 +16,4 @@ nav:
 
   # - title: "Theme Source"
   #   url: https://github.com/raviriley/agency-jekyll-theme/
+  # This is the navigation bar

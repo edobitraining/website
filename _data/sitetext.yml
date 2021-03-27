@@ -28,7 +28,9 @@ portfolio:
 
 timeline:
     title: "My Story" 
-    text: "This is me?"
+    text: "Hi there! 
+
+My name is Jenn Edobi and I am the founder of Edobi Fitness! A little bit about myself before I get the chance to hopefully meet you someday. I am 25 years old and currently located in Union, NJ. I began running as early as 7 years old and went on to run track at Union highschool, Vanderbilt University and then professionally for Team Nigeria! Although, I don’t compete any longer, I’m still passionate about challenging myself physically and mentally and passing on the skills and knowledge I’ve attained as a track athlete over the years to help others achieve their fitness goals."
     section: timeline
     events:
       - title: "High School"
@@ -57,10 +59,6 @@ timeline:
         align: right
     end: "Be Part <br> of My <br> Story!"
 
-about_me:
-    title: "About Me"
-    text: "our story"
-    section: about_me
 
 clients:
     section: clients
