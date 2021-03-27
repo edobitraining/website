@@ -17,7 +17,7 @@ services:
         icon: fas fa-laptop       
       - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
         desc: "Your description here, full **Markdown** support"
-        icon: fab fa-markdown
+        icon: fab fa-instagram
 
 portfolio:
     title: "Portfolio"
