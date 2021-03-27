@@ -4,6 +4,21 @@ header:
     button: Tell Me More
     buttonlink: "#portfolio" # "#{section}" or "URL/page link"
 
+services:
+    title: "Services"
+    text: "Lorem ipsum"
+    section: services
+    list:
+      - title: "E-Commerce"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-shopping-cart #find more at https://fontawesome.com/icons
+      - title: "Responsive Design"
+        desc: "Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit."
+        icon: fas fa-laptop       
+      - title: "[Markdown](https://en.wikipedia.org/wiki/Markdown)"
+        desc: "Your description here, full **Markdown** support"
+        icon: fab fa-markdown
+
 portfolio:
     title: "Portfolio"
     text: "Services offered"
@@ -43,6 +58,13 @@ My name is Jenn Edobi and I am the founder of Edobi Fitness! A little bit about 
         align: right
     end: "Be Part <br> of My <br> Story!"
 
+
+about:
+    title: "About Us"
+    text: "our story"
+    section: about
+
+
 clients:
     section: clients
     max-height: 100px
@@ -65,7 +87,6 @@ contact:
     title: "Contact Us"
     text: "Lorem ipsum or call 123456789"
     section: contact
-
 
 footer:
     legal: "Privacy Policy"
