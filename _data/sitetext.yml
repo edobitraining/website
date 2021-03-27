@@ -9,7 +9,7 @@ services:
     text: 
     section: services
     list:
-      - title: "Track Specific Training"
+      - title: "DELETE THIS"
         desc: "1:1 Track Specific Training. running form, mechanics and dynamic drills to ultimately improve speed and strength while running. Sessions will also include a speed or endurance workout depending on the needs of the athlete. Discounted package bundles are available when multiple sessions are booked."
         icon: fas fa-running
       - title: "Personal Training"
