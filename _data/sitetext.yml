@@ -57,10 +57,10 @@ timeline:
         align: right
     end: "Be Part <br> of My <br> Story!"
 
-about:
-    title: "About Us"
+about_me:
+    title: "About Me"
     text: "our story"
-    section: about
+    section: about_me
 
 clients:
     section: clients
