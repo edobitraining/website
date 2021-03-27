@@ -58,7 +58,6 @@ My name is Jenn Edobi and I am the founder of Edobi Fitness! A little bit about 
         align: right
     end: "Be Part <br> of My <br> Story!"
 
-
 about:
     title: "About Us"
     text: "our story"
@@ -68,7 +67,7 @@ about:
 clients:
     section: clients
     max-height: 100px
-    horizontal-scrolling: "" #"yes/no"
+    horizontal-scrolling: "no"
     list:
       - title: "envato"
         url: https://github.com/raviriley/agency-jekyll-theme
