@@ -1,17 +1,16 @@
 ---
 title: Track Coaching
 subtitle: 1:1 Track-Specific Training (Online or In-Person)
-image: https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&h=800
+image: /assets/img/timeline/2014_hs_1.PNG
 alt: Track Coaching
 
 caption:
   title: Track Coaching
   subtitle: 1:1 Track-Specific Training
-  thumbnail: https://images.unsplash.com/photo-1461896836934-ffe607ba8211?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&h=600
+  thumbnail: /assets/img/timeline/2014_hs_1.PNG
 ---
 
-
-**Rate:** $30/Hour
+**Rate:** $25/Hour
 
 This is an instructional and dynamic session where Jenn helps the athlete with their running form, mechanics and dynamic drills to ultimately improve speed and strength while running. Sessions will also include a speed or endurance workout depending on the needs of the athlete. Discounted package bundles are available when multiple sessions are booked. 
 
